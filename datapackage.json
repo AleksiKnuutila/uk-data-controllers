@@ -130,52 +130,52 @@
             "name": "c1_address_line_1",
             "type": "string",
             "description": ""
-          }
+          },
           {
             "name": "c1_address_line_2",
             "type": "string",
             "description": ""
-          }
+          },
           {
             "name": "c1_address_line_3",
             "type": "string",
             "description": ""
-          }
+          },
           {
             "name": "c1_address_line_4",
             "type": "string",
             "description": ""
-          }
+          },
           {
             "name": "c1_address_line_5",
             "type": "string",
             "description": ""
-          }
+          },
           {
             "name": "c1_telephone",
             "type": "string",
             "description": ""
-          }
+          },
           {
             "name": "c1_postcode",
             "type": "string",
             "description": ""
-          }
+          },
           {
             "name": "c1_email_address",
             "type": "string",
             "description": ""
-          }
+          },
           {
             "name": "c1_job_title",
             "type": "string",
             "description": ""
-          }
+          },
           {
             "name": "public_register_entry_url",
             "type": "string",
             "description": "URL to the ICO register page with information about organisation"
-          }
+          },
           {
             "name": "nature_of_work_description",
             "type": "string",
