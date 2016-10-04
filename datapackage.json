@@ -94,67 +94,67 @@
           {
             "name": "trading_names",
             "type": "string",
-            "description": ""
+            "description": "The organisation's other trading names"
           },
           {
             "name": "c1_title",
             "type": "string",
-            "description": ""
+            "description": "The title of the person responsible for data protection"
           },
           {
             "name": "c1_first_name",
             "type": "string",
-            "description": ""
+            "description": "The first name of the person responsible for data protection"
           },
           {
             "name": "c1_last_name",
             "type": "string",
-            "description": ""
+            "description": "The last name of the person responsible for data protection"
           },
           {
             "name": "c1_address_line_1",
             "type": "string",
-            "description": ""
+            "description": "The first address line of the person responsible for data protection"
           },
           {
             "name": "c1_address_line_2",
             "type": "string",
-            "description": ""
+            "description": "The second address line of the person responsible for data protection"
           },
           {
             "name": "c1_address_line_3",
             "type": "string",
-            "description": ""
+            "description": "The third address line of the person responsible for data protection"
           },
           {
             "name": "c1_address_line_4",
             "type": "string",
-            "description": ""
+            "description": "The fourth address line of the person responsible for data protection"
           },
           {
             "name": "c1_address_line_5",
             "type": "string",
-            "description": ""
+            "description": "The fifth address line of the person responsible for data protection"
           },
           {
             "name": "c1_telephone",
             "type": "string",
-            "description": ""
+            "description": "The telephone number of the person responsible for data protection"
           },
           {
             "name": "c1_postcode",
             "type": "string",
-            "description": ""
+            "description": "The postcode of the person responsible for data protection"
           },
           {
             "name": "c1_email_address",
             "type": "string",
-            "description": ""
+            "description": "The email address of the person responsible for data protection"
           },
           {
             "name": "c1_job_title",
             "type": "string",
-            "description": ""
+            "description": "The job title of the person responsible for data protection"
           },
           {
             "name": "public_register_entry_url",
